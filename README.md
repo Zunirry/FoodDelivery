@@ -14,22 +14,22 @@
 
 #### Screens
 - Login with email and password
-![](login.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/login.gif)
 
 - Our restaurants
-![](restaurants.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/restaurants.gif)
 
 - Food Menu
-![](menu.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/menu.gif)
 
 - Order delivery
-![](order-delivery.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/order-delivery.gif)
 
 - Add a new credit card
-![](add-creditCard.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/add-creditCard.gif)
 
 - Delete a credit card
-![](remove-creditcard.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/remove-creditcard.mp4)
 
 - Dark mode
-![](darkMode.gif)
+![](https://github.com/Zunirry/FoodDelivery/blob/main/gif/darkMode.gif)
